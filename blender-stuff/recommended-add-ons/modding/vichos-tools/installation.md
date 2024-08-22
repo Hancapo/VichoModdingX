@@ -24,16 +24,20 @@ Now enable the Add-on by checking the checkbox\
 
 <details>
 
-<summary>Step 3 (Mandatory if you want to use <a data-mention href="usage/texture-dictionary-tools.md">texture-dictionary-tools.md</a>)</summary>
+<summary>Step 3 (Mandatory if you want to use <a data-mention href="usage/texture-dictionary-tools.md">texture-dictionary-tools.md</a> or Map Data Tools)</summary>
 
-Before setting this you must run [folders2ytd.md](../../../../gta-stuff/standalone-tools/folders2ytd.md "mention") at least once to make sure is working, otherwise it will not work as intended.
+.NET 8 x64 Runtime must be installed in the system.
 
-Set the Folders2YTD path by clicking on the folder icon and select a folder where you have Folders2YTD's executable file.
+**Blender 4.0/4.1**
 
-<img src="../../../../.gitbook/assets/image (27).png" alt="" data-size="original">
+![](<../../../../.gitbook/assets/image (2).png>)
+
+Install `PythonNET` module by clicking the button.
+
+**Blender 4.2+**
+
+The needed modules are automatically installed.
 
 </details>
 
-{% hint style="info" %}
 Remember to restart Blender to ensure that everything will work.
-{% endhint %}
