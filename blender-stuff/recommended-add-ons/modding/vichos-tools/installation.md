@@ -39,5 +39,3 @@ Install `PythonNET` module by clicking the button.
 The needed modules are automatically installed.
 
 </details>
-
-Remember to restart Blender to ensure that everything will work.
