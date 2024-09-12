@@ -28,7 +28,7 @@ Now enable the Add-on by checking the checkbox\
 
 <details>
 
-<summary>Step 3 (Mandatory if you want to use <a data-mention href="usage/textures-tools.md">textures-tools.md</a> or Map Data Tools)</summary>
+<summary>Step 3 (Mandatory if you want to use <a data-mention href="usage/textures-tools/">textures-tools</a> or Map Data Tools)</summary>
 
 .NET 8 x64 Runtime must be installed in the system.
 

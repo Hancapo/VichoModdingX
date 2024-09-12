@@ -1,12 +1,12 @@
 ---
-icon: images
+icon: sliders-up
 ---
 
-# Textures Tools
+# Settings
 
-## Settings
 
-<figure><img src="../../../../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Availble in add-on's preferences.</p></figcaption></figure>
 
 <details>
 
