@@ -34,11 +34,6 @@ Now enable the Add-on by checking the checkbox\
 
 </details>
 
-{% hint style="warning" %}
-`Enabled Add-ons Only` should be disabled before installation.
-{% endhint %}
-
 {% hint style="info" %}
-Remember to restart Blender to ensure that everything will work.
+Just in case restart Blender to ensure that everything will work.
 {% endhint %}
-
