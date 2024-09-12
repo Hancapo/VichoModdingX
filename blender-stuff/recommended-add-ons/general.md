@@ -1,8 +1,9 @@
 ---
 description: Here you'll find add-ons meant for general use in Blender.
+icon: wind-turbine
 ---
 
-# ☕ General
+# General
 
 ## Free Add-ons
 

@@ -1,4 +1,8 @@
-# 🧪 Misc Tools
+---
+icon: biohazard
+---
+
+# Misc Tools
 
 ## Save selected object(s) as unique list to file
 

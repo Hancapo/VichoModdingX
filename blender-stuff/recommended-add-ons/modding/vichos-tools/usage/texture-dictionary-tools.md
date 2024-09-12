@@ -1,2 +1,0 @@
-# ⛰️ Texture Dictionary Tools
-

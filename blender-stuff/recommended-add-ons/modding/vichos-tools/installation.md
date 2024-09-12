@@ -1,4 +1,8 @@
-# 🖥️ Installation
+---
+icon: compact-disc
+---
+
+# Installation
 
 <details>
 
@@ -24,18 +28,14 @@ Now enable the Add-on by checking the checkbox\
 
 <details>
 
-<summary>Step 3 (Mandatory if you want to use <a data-mention href="usage/texture-dictionary-tools.md">texture-dictionary-tools.md</a> or Map Data Tools)</summary>
+<summary>Step 3 (Mandatory if you want to use <a data-mention href="usage/textures-tools.md">textures-tools.md</a> or Map Data Tools)</summary>
 
 .NET 8 x64 Runtime must be installed in the system.
 
-**Blender 4.0/4.1**
+**Blender 4.0/4.1/4.2**
 
 ![](<../../../../.gitbook/assets/image (2).png>)
 
-Install `PythonNET` module by clicking the button.
-
-**Blender 4.2+**
-
-The needed modules are automatically installed.
+Install `PythonNET` module by clicking the `Install second: Install PythonNET` button.
 
 </details>

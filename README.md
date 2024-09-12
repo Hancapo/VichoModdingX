@@ -17,6 +17,11 @@ Here you'll learn how to create mods for Grand Theft Auto V using a set of the b
 
 ## Requirements
 
-* Blender 4.1 or greater (latest version is recommended). [Download\
-  ](http://www.blender.org/download/)PD: **Steam (recommended for auto-updates)** and **Windows Store** version also works.
-* CodeWalker v30 dev46 or later. [Download](https://cdn.discordapp.com/attachments/351357358460370944/1184283507749564456/CodeWalker30\_dev46.zip?ex=669660b7\&is=66950f37\&hm=413e7101ffc05107c8e94ab369b3b2a03200fd28f4085a6b7e3706f39561acb8&)
+* Blender 4.0 or greater (latest version is recommended). [Download\
+  ](http://www.blender.org/download/)
+
+{% hint style="info" %}
+**Steam (recommended for auto-updates)** and **Windows Store** version also works.
+{% endhint %}
+
+* CodeWalker v30 dev47 or later. [Download](https://cdn.discordapp.com/attachments/351357358460370944/1184283507749564456/CodeWalker30\_dev46.zip?ex=669660b7\&is=66950f37\&hm=413e7101ffc05107c8e94ab369b3b2a03200fd28f4085a6b7e3706f39561acb8&)
