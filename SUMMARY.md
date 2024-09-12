@@ -41,5 +41,5 @@
         * [Misc Tools](blender-stuff/recommended-add-ons/modding/vichos-tools/usage/misc-tools.md)
         * [Object Tools](blender-stuff/recommended-add-ons/modding/vichos-tools/usage/object-tools.md)
         * [MLO Tools](blender-stuff/recommended-add-ons/modding/vichos-tools/usage/mlo-tools.md)
-        * [Textures Tools](blender-stuff/recommended-add-ons/modding/vichos-tools/usage/textures-tools/README.md)
+        * [Textures Tools](blender-stuff/recommended-add-ons/modding/vichos-tools/usage/textures-tools.md)
           * [Settings](blender-stuff/recommended-add-ons/modding/vichos-tools/usage/textures-tools/settings.md)

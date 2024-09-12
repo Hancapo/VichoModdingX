@@ -4,8 +4,6 @@ icon: sliders-up
 
 # Settings
 
-
-
 <figure><img src="../../../../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Availble in add-on's preferences.</p></figcaption></figure>
 
 <details>
