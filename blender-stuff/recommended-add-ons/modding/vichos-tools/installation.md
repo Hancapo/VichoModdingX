@@ -30,7 +30,7 @@ Now enable the Add-on by checking the checkbox\
 
 <summary>Step 3 (Mandatory if you want to use <a data-mention href="tools/textures/">textures</a> or Map Data Tools)</summary>
 
-.NET 8 x64 Runtime must be installed in the system.
+.NET 8 x64 Runtime must be installed in the system. [Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer)
 
 **Blender 4.0/4.1/4.2**
 
