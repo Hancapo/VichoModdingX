@@ -34,7 +34,7 @@ Now enable the Add-on by checking the checkbox\
 
 **Blender 4.0/4.1/4.2**
 
-![](<../../../../.gitbook/assets/image (2).png>)
+![](<../../../../.gitbook/assets/image (2) (2).png>)
 
 Install `PythonNET` module by clicking the `Install second: Install PythonNET` button.
 
