@@ -39,7 +39,6 @@
       * [Installation](blender-stuff/recommended-add-ons/modding/vichos-tools/installation.md)
       * [Tools](blender-stuff/recommended-add-ons/modding/vichos-tools/tools/README.md)
         * [Anims](blender-stuff/recommended-add-ons/modding/vichos-tools/tools/anims/README.md)
-          * [Details](blender-stuff/recommended-add-ons/modding/vichos-tools/tools/anims/details.md)
           * [Usage](blender-stuff/recommended-add-ons/modding/vichos-tools/tools/anims/usage.md)
         * [Objects](blender-stuff/recommended-add-ons/modding/vichos-tools/tools/objects.md)
         * [MLO](blender-stuff/recommended-add-ons/modding/vichos-tools/tools/mlo.md)
