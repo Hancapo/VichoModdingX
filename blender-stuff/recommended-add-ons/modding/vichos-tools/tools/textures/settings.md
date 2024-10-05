@@ -4,7 +4,7 @@ icon: sliders-up
 
 # Settings
 
-<figure><img src="../../../../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Availble in add-on's preferences.</p></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Available in add-on's preferences.</p></figcaption></figure>
 
 <details>
 
@@ -24,7 +24,7 @@ If enabled, there'll be an `Export Folder(s)` option along with the `Export YTD(
 
 <details>
 
-<summary>Skip environment textures</summary>
+<summary>Skip environment textures (Enabled by default)</summary>
 
 If enabled, during texture packages export environment textures used by GTA V will be excluded.
 

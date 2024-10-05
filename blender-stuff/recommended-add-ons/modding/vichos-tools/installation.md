@@ -32,10 +32,12 @@ Now enable the Add-on by checking the checkbox\
 
 .NET 8 x64 Runtime must be installed in the system. [Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer)
 
-**Blender 4.0/4.1/4.2**
+**Blender 4.0/4.1**
 
 ![](<../../../../.gitbook/assets/image (2) (2).png>)
 
 Install `PythonNET` module by clicking the `Install second: Install PythonNET` button.
+
+In **Blender 4.2** the modules are included and automatically installed in an isolated environment upon enabling the extension due to the newer Extensions system.
 
 </details>
