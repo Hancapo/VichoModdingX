@@ -1,8 +1,8 @@
 ---
 icon: person-running-fast
 description: >-
-  Automatically creates all the needed stuff for a fully working YCD with just
-  one click.
+  Automatically creates all the needed stuff for a fully working Clip Dictionary
+  with just one click.
 ---
 
 # Anims
@@ -26,4 +26,8 @@ description: >-
 
 {% hint style="info" %}
 _**NLA Tracks**_ aren't supported, however if your player's animation is attached to the `Animation Data` block of your _**Clip Dictionary**_ object it will work, but it doesn't support multiple animations.
+{% endhint %}
+
+{% hint style="info" %}
+It supports UV and Object animations in the same object, they will be added in the same _**Clip Dictionary**_ if there are any.
 {% endhint %}
