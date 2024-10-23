@@ -1,5 +1,5 @@
 ---
-description: Here you'll find add-ons meant for general use in GTA modding.
+description: A collection of add-ons designed for general use in GTA modding.
 ---
 
 # 🐒 Modding
