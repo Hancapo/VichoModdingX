@@ -4,22 +4,23 @@ icon: compact-disc
 
 # Installation
 
-### Click [here](blender-4.2+.md) for Blender 4.2+ installation process.
+{% tabs %}
+{% tab title="Legacy System (Add-ons)" %}
+### For Blender 4.0 and 4.1
 
-
-
-{% stepper %}
-{% step %}
-### Add-on Installation
-
-.NET 8 x64 Runtime must be installed in the system. [Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer)
-
-**Blender 4.0+**
+### .NET 8 x64 Runtime must be installed in the system. [Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer)
 
 ![](<../../../../../.gitbook/assets/image (2) (2).png>)
 
-Install `PythonNET` module by clicking the `Install second: Install PythonNET` button.
+### Install `PythonNET` module by clicking the `Install second: Install PythonNET` button.
+{% endtab %}
 
-As of **Blender 4.2**, modules are included and automatically installed in an isolated environment upon enabling the extension, thanks to the new Extensions system.
-{% endstep %}
-{% endstepper %}
+{% tab title="Current System (Extensions) " %}
+### For Blender 4.2
+
+### .NET 8 x64 Runtime must be installed in the system. [Download](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.8-windows-x64-installer)
+
+### **TODO: waiting for 1.0 release.**
+{% endtab %}
+{% endtabs %}
+
