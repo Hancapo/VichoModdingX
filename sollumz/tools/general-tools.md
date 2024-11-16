@@ -24,7 +24,7 @@ The current vertex painter tools contain 6 palettes.
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-## 🪣  Terrain Painter
+## 🪣 Terrain Painter
 
 {% hint style="info" %}
 You must be in Vertex Paint mode to use it.
@@ -44,7 +44,7 @@ It creates a new brush for Vertex Paint called `TerrainBrush`.
 {% endhint %}
 
 {% hint style="warning" %}
-Requires a secondary vertex color channel called `colour1`
+Requires a secondary vertex color channel called `Color 1`
 {% endhint %}
 
 {% hint style="warning" %}
@@ -66,7 +66,7 @@ Available types: Drawable, Drawable Dictionary and Bound Composite
 Changes the Sollum type of any selected object, even if this object had no Sollumz type before to the selected one.
 
 {% hint style="info" %}
-It support **all** Sollum types available to the date.
+It supports **all** Sollum types available to the date.
 {% endhint %}
 
 #### Re-adjust Light Intensity
