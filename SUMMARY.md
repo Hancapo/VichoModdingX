@@ -33,7 +33,8 @@
 ## 🥗 BLENDER STUFF
 
 * [⏺️ Recommended add-ons](blender-stuff/recommended-add-ons/README.md)
-  * [General](blender-stuff/recommended-add-ons/general.md)
+  * [General](blender-stuff/recommended-add-ons/general/README.md)
+    * [DELETE](blender-stuff/recommended-add-ons/general/delete.md)
   * [🐒 Modding](blender-stuff/recommended-add-ons/modding/README.md)
     * [🧞 Vicho's Tools](blender-stuff/recommended-add-ons/modding/vichos-tools/README.md)
       * [Installation](blender-stuff/recommended-add-ons/modding/vichos-tools/installation.md)
