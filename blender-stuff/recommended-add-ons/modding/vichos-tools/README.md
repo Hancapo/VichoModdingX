@@ -6,7 +6,7 @@ description: >-
 
 # 🧞 Vicho's Tools
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption><p>An screenshot of the current UI.</p></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>An screenshot of the current UI.</p></figcaption></figure>
 
 <details>
 
