@@ -1,8 +1,6 @@
 ---
 icon: compact-disc
-description: >-
-  Installation process for Blender 4.0+ (Add-on system for Blender 4.0 and 4.1 /
-  Extension System for Blender 4.2)
+description: Add-on system for Blender 4.0/4.1 and Extension System for Blender 4.2
 ---
 
 # Installation
