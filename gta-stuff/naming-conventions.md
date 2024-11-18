@@ -24,4 +24,4 @@ There's no strict order, as long as it makes sense.
 
 #### The following shows some examples of what you should do and what you should avoid.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>❌</td><td>my_house_1</td><td></td></tr><tr><td>❌</td><td>first_home</td><td></td></tr><tr><td>❌</td><td>terrain</td><td></td></tr><tr><td>✅</td><td><mark style="color:blue;">starisland_hotel_beach1</mark></td><td></td></tr><tr><td>✅</td><td><mark style="color:blue;">dt1_01_newbuild1_sky</mark></td><td></td></tr><tr><td>✅</td><td><mark style="color:blue;">vicho_bighome1_wood</mark></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>❌</td><td>my_house_1</td><td></td></tr><tr><td>❌</td><td>first_home</td><td></td></tr><tr><td>❌</td><td>terrain</td><td></td></tr><tr><td>✅</td><td><mark style="color:blue;">starisland_hotel_beach01</mark></td><td></td></tr><tr><td>✅</td><td><mark style="color:blue;">dt1_01_newbuild1_sky</mark></td><td></td></tr><tr><td>✅</td><td><mark style="color:blue;">vicho_bighome1_wood</mark></td><td></td></tr></tbody></table>
