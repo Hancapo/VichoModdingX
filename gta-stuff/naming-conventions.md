@@ -1,5 +1,5 @@
 ---
-description: All about naming conventions.
+description: Everything about them.
 ---
 
 # ✍️ Naming conventions
