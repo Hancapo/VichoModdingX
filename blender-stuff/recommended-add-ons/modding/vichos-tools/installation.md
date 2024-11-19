@@ -7,9 +7,29 @@ description: Add-on system for Blender 4.0/4.1 and Extension System for Blender 
 
 {% tabs %}
 {% tab title="Legacy System (Add-ons)" %}
-![](<../../../../.gitbook/assets/image (2) (2).png>)
+{% stepper %}
+{% step %}
+### Download
 
-#### Install `PythonNET` module by clicking the `Install second: Install PythonNET` button.
+Get the latest release from [Here](https://github.com/Hancapo/VichoTools/releases/latest).
+{% endstep %}
+
+{% step %}
+### Install&#x20;
+
+Press the `Install` button and select the downloaded ZIP file.
+
+<img src="../../../../.gitbook/assets/image.png" alt="" data-size="original">
+{% endstep %}
+
+{% step %}
+### PythonNET
+
+Install `PythonNET` module by clicking the `Install second: Install PythonNET` button.
+
+![](<../../../../.gitbook/assets/image (2) (2).png>)
+{% endstep %}
+{% endstepper %}
 {% endtab %}
 
 {% tab title="Current System (Extensions) " %}
@@ -40,21 +60,3 @@ Click the install button.
 {% hint style="info" %}
 A development version will be added in the future to bring early access to the latest features as a Blender Extension coexisting along with the stable version.
 {% endhint %}
-
-
-
-{% stepper %}
-{% step %}
-### Download
-
-Get the latest release from [Here](https://github.com/Hancapo/VichoTools/releases/latest).
-{% endstep %}
-
-{% step %}
-### Install&#x20;
-
-Press the `Install` button and select the downloaded ZIP file.
-
-<img src="../../../../.gitbook/assets/image.png" alt="" data-size="original">
-{% endstep %}
-{% endstepper %}
