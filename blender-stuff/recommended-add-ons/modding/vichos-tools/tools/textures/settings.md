@@ -18,7 +18,7 @@ If enabled, any kind of mesh can be added into a new texture package or an exist
 
 <summary>Enable folders export</summary>
 
-If enabled, there'll be an `Export Folder(s)` option along with the `Export YTD(s)` one.
+If enabled, the `Export Folder(s)` option will appear along the `Export YTD(s)` one.
 
 </details>
 
@@ -26,7 +26,7 @@ If enabled, there'll be an `Export Folder(s)` option along with the `Export YTD(
 
 <summary>Skip environment textures (Enabled by default)</summary>
 
-If enabled, during texture packages export environment textures used by GTA V will be excluded.
+If enabled, during texture package(s) export environment textures used by GTA V will be excluded.
 
 **List of environment textures**
 
@@ -46,8 +46,8 @@ env_woodgrain_2
 
 <details>
 
-<summary>Resize DDS textures</summary>
+<summary>Resize DDS textures (Enabled by default)</summary>
 
-If enabled, resize tools will affect DDS images being used texture package during the resizing process.
+If enabled, resize tools will affect DDS images.
 
 </details>
