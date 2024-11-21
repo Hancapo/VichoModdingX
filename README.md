@@ -23,5 +23,5 @@ Here you'll learn how to create mods for Grand Theft Auto V using a set of the b
 * Sollumz (latest release is recommended). [Download](https://github.com/Sollumz/Sollumz/releases/latest/download/Sollumz.zip)
 
 {% hint style="info" %}
-**Steam (recommended for auto-updates)** and **Windows Store** version also works.
+**Steam and Microsoft Store (auto-update)** versions also works.
 {% endhint %}
